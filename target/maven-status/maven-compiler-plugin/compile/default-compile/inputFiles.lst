@@ -1,0 +1,10 @@
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/controller/EventController.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/exception/ApiError.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/controller/VenueController.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/exception/GlobalExceptionHandler.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/CatalogApplication.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/service/EventService.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/dto/EventDTO.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/exception/NotFoundException.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/service/VenueService.java
+/home/mateo-gonzalez/catalog-api/src/main/java/com/ansan/tickets/catalog/dto/VenueDTO.java
