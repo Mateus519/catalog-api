@@ -26,4 +26,4 @@ Además, la API tiene su propia documentación visual en **Swagger UI**, lo que 
 ## Cómo ejecutarlo
 
 1. Desde la terminal: `mvn clean spring-boot:run`
-2. Abres cualquier navegador y vas a la siguiente direccion: http://localhost:8080/swagger-ui/index.html
+2. Abres cualquier navegador y vas a la siguiente direccion: `http://localhost:8080/swagger-ui/index.html`
