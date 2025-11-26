@@ -1,4 +1,4 @@
-# 🎟️ Proyecto: Catálogo Persistente de Eventos y Venues (API con Spring Boot + JPA)
+#  Proyecto: Catálogo Persistente de Eventos y Venues (API con Spring Boot + JPA)
 
 ### **Módulo 6 – Semana 2 | Persistencia, Validación, Relaciones y Paginación**
 
@@ -66,7 +66,7 @@ Con esta API puedes:
 
 ---
 
-# 🛢️ Base de datos (H2)
+#  Base de datos (H2)
 
 Tablas generadas por JPA:
 
