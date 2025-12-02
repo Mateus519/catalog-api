@@ -51,9 +51,9 @@ La arquitectura está dividida en **3 grandes anillos**:
                 │ ENTIDADES • PORTS  │
                 └────────────────────┘
 
----
 
 # 🗂️ Estructura del proyecto
+---
 
 hexagonal-users/
 ├── domain/
